@@ -1,0 +1,15 @@
+{
+  "name": "may22",
+  "version": "1.0.0",
+  "description": "assessment may 22",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha ./test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.6.0",
+    "mocha": "^3.4.1"
+  }
+}
