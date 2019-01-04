@@ -1,5 +1,3 @@
-var Passenger = function (id,name) {
-  this.id=id
-  this.name=name}
+var Passenger = function () {}
 
 module.exports = Passenger
